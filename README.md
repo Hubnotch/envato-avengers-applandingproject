@@ -1,5 +1,5 @@
 # envato-avengers-applandingproject
-Envato Avengers App landing page
+Envato Avengers App landing page  
 App Landing Page Naming convention
 
 ## Guidelines
